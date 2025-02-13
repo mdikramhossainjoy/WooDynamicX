@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WooDynamicX
- * Description: Adds dynamic custom fields for WooCommerce products (text:value format).
+ * Description: Adds dynamic custom fields for WooCommerce products.
  * Version: 1.7
  * Author: Md Ikram Hossain Joy
- * Author URI: http://mdikramhossainjoy.com
- * Plugin URI: https://github.com/mdikramhossainjoy/woocommerce-dynamic-custom-fields
- * Documentation: https://mdikramhossainjoy.com/docs/woocommerce-dynamic-custom-fields
- * GitHub: https://github.com/mdikramhossainjoy/woocommerce-dynamic-custom-fields
+ * Author URI: https://mdikramhossainjoy.com
+ * Plugin URI: https://github.com/mdikramhossainjoy/WooDynamicX
+ * Documentation: https://mdikramhossainjoy.com/docs/WooDynamicX
+ * GitHub: https://github.com/mdikramhossainjoy/WooDynamicX
  */
 
 if (!defined('ABSPATH')) exit;
