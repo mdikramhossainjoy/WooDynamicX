@@ -23,7 +23,7 @@ class WooDynamicX {
     }
 
     public function add_custom_fields_metabox() {
-        add_meta_box('woodynamicx_custom_fields', 'Custom Fields', [$this, 'custom_fields_callback'], 'product', 'normal', 'high');
+        add_meta_box('woodynamicx_custom_fields', 'WOODX Fields', [$this, 'custom_fields_callback'], 'product', 'normal', 'high');
     }
 
     public function custom_fields_callback($post) {
