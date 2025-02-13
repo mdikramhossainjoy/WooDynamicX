@@ -13,7 +13,7 @@
 3. Upload the ZIP file and activate the plugin.
 
 ## Usage
-1. Edit a product and find the "Custom Fields" metabox.
+1. Add/Edit a product and find the "WOODX Fields" metabox.
 2. Use the "Add Field" button to create new fields.
 3. Save the product to store the fields.
 
