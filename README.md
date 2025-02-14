@@ -29,7 +29,7 @@ GNU General Public License v2.0 or later.
 
 ## Support
 - Visit the [GitHub Repository](https://github.com/mdikramhossainjoy/WooDynamicX).
-- Contact the author at [mdikramhossainjoy@gmail.com](mailto: mdikramhossainjoy@gmail.com).
+- Contact the author at : mdikramhossainjoy@gmail.com
 
 ---
 
