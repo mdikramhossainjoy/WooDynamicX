@@ -1,3 +1,5 @@
+![Alt text](https://drive.google.com/uc?export=download&id=1FY5tj7ULwrF1FI_JDVbUnQSvtsYuf7oc)
+
 # WooDynamicX
 
 **Adds dynamic custom fields to WooCommerce products.**
@@ -27,7 +29,7 @@ GNU General Public License v2.0 or later.
 
 ## Support
 - Visit the [GitHub Repository](https://github.com/mdikramhossainjoy/WooDynamicX).
-- Contact the author at [contact@mdikramhossainjoy.com](mailto:contact@mdikramhossainjoy.com).
+- Contact the author at [mdikramhossainjoy@gmail.com](mailto: mdikramhossainjoy@gmail.com).
 
 ---
 
