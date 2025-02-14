@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooDynamicX
  * Description: Adds dynamic custom fields for WooCommerce products.
- * Version: 1.7
+ * Version: 1.0
  * Author: Md Ikram Hossain Joy
  * Author URI: https://mdikramhossainjoy.com
  * Plugin URI: https://github.com/mdikramhossainjoy/WooDynamicX
